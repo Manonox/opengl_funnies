@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "cppdbg",
+            "request": "launch",
+            "name": "Debug",
+            "program": "${workspaceFolder}/bin/lab10.exe",
+            "args": [],
+            "miDebuggerPath": "D:\\msys64\\mingw64\\bin\\gdb.exe",
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "${defaultBuildTask}"
+        }
+    ]
+}
